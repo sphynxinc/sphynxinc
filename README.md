@@ -9,7 +9,7 @@
   <a href="https://github.com/sphynxinc">
     🧠 GitHub
   </a>
-  •
+<!--  • -->
 <!--   <a href="mailto:twojemail@example.com"> -->
 <!--     📩 Kontakt -->
 <!--  </a> -->
@@ -54,9 +54,9 @@ Krótki opis projektu – konkretnie i bez pierdolenia.
 ## 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sphynxinc&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sphynxinc&layout=compact&theme=tokyonight" />
 </p>
 
 ---
